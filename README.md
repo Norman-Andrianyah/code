@@ -1,5 +1,5 @@
 # Norman's Code Projects
-ini adalah penyimpanan **code** buatanku sendiri.
+ini adalah penyimpanan **code** buatanku sendiri.\n
 disini ada beberapa macam bahasa pemograman, dan disini juga bertjuan untuk membuat proyek bersama-sama bila saya butuh sedikit bantuan
 ##isi dari kode
 - gamme dev
@@ -11,4 +11,4 @@ disini ada beberapa macam bahasa pemograman, dan disini juga bertjuan untuk memb
 - c++
 - c#
 - java
-jangan lupa kunjungi [situs webku](https://norman-andrianyah.github.io/id-id "github web ae")
+\njangan lupa kunjungi [situs webku](https://norman-andrianyah.github.io/id-id "Norman's GitHub Site")

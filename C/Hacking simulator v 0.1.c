@@ -91,10 +91,10 @@ int main() {
     printf("%d virus TRia Moon\n", nomer4);
     printf("%d virus MSDA Type=2\n", nomer5);
     printf("%d virus GDT10242 v1\n", nomer6);
-    printf("%d virus GTB T4", nomer7);
-    printf("%d virus E-bola v0.1", nomer8);
-    printf("%d virus polo-Maniac", nomer9);
-    printf("%d virus Qoedro C3 EXPERT", nomer10);
+    printf("%d virus GTB T4\n", nomer7);
+    printf("%d virus E-bola v0.1\n", nomer8);
+    printf("%d virus polo-Maniac\n", nomer9);
+    printf("%d virus Qoedro C3 EXPERT\n", nomer10);
 
     char viruschose = getchar();
 
@@ -105,14 +105,17 @@ int main() {
         while (viruscreate <= 10000)
         {
             printf("membuat virus E-bot %d/10000\n", viruscreate);
+            viruscreate++;
         }
         while (virusload <= 1000)
         {
             printf("menunggu virus E-bot %d/1000\n", virusload);
+            virusload++;
         }
-        while (virusacc <== 1000)
+        while (virusacc <= 1000)
         {
             printf("mengakses virus E-bot %d/1000\n", virusacc);
+            virusacc++;
         }
     }
     else if (viruschose == '2')
@@ -122,14 +125,17 @@ int main() {
         while (viruscreate <= 10000)
         {
             printf("membuat virus MAt-X %d/10000\n", viruscreate);
+            viruscreate++;
         }
         while (virusload <= 1000)
         {
             printf("menunggu virus MAt-X %d/1000\n", virusload);
+            virusload++;
         }
-        while (virusacc <== 1000)
+        while (virusacc <= 1000)
         {
             printf("mengakses virus MAt-X %d/1000\n", virusacc);
+            virusacc++;
         }
     }
     else if (viruschose == '3')
@@ -139,14 +145,17 @@ int main() {
         while (viruscreate <= 10000)
         {
             printf("membuat virus COVID-19 %d/10000\n", viruscreate);
+            viruscreate++;
         }
         while (virusload <= 1000)
         {
             printf("menunggu virus COVID-19 %d/1000\n", virusload);
+            virusload++;
         }
-        while (virusacc <== 1000)
+        while (virusacc <= 1000)
         {
             printf("mengakses virus COVID-19 %d/1000\n", virusacc);
+            virusacc++;
         }
     }
     else if (viruschose == '4')
@@ -156,14 +165,17 @@ int main() {
         while (viruscreate <= 10000)
         {
             printf("membuat virus TRIa Moon %d/10000\n", viruscreate);
+            viruscreate++;
         }
         while (virusload <= 1000)
         {
             printf("menunggu virus TRIa Moon %d/1000\n", virusload);
+            virusload++;
         }
-        while (virusacc <== 1000)
+        while (virusacc <= 1000)
         {
             printf("mengakses virus Tria Moon %d/1000\n", virusacc);
+            virusacc++;
         }
     }
     else if (viruschose == '5')
@@ -173,14 +185,17 @@ int main() {
         while (viruscreate <= 20000)
         {
             printf("membuat virus MSDA Type=2 %d/20000\n", viruscreate);
+            viruscreate++;
         }
         while (virusload <= 1000)
         {
             printf("menunggu virus MSDA Type=2 %d/1000\n", virusload);
+            virusload++;
         }
-        while (virusacc <== 1000)
+        while (virusacc <= 1000)
         {
             printf("mengakses virus MSDA Type=2 %d/1000\n", virusacc);
+            virusacc++;
         }
     }
     else if (viruschose == '6')
@@ -190,14 +205,17 @@ int main() {
         while (viruscreate <= 10000)
         {
             printf("membuat virus GDT10242 v1 %d/10000\n", viruscreate);
+            viruscreate++;
         }
         while (virusload <= 1000)
         {
             printf("menunggu virus GDT10242 v1 %d/1000\n", virusload);
+            virusload++;
         }
-        while (virusacc <== 1000)
+        while (virusacc <= 1000)
         {
             printf("mengakses virus GDT10242 v1 %d/1000\n", virusacc);
+            virusacc++;
         }
     }
     else if (viruschose == '7')
@@ -207,14 +225,17 @@ int main() {
         while (viruscreate <= 10000)
         {
             printf("membuat virus GTB T4 %d/10000\n", viruscreate);
+            viruscreate++;
         }
         while (virusload <= 1000)
         {
             printf("menunggu virus GTB T4 v1 %d/1000\n", virusload);
+            virusload++;
         }
-        while (virusacc <== 1000)
+        while (virusacc <= 1000)
         {
             printf("mengakses virus GTB T4 v1 %d/1000\n", virusacc);
+            virusacc++;
         }
     }
     else if (viruschose == '8')
@@ -224,14 +245,17 @@ int main() {
         while (viruscreate <= 10000)
         {
             printf("membuat virus E-bola v0.1 %d/10000\n", viruscreate);
+            viruscreate++;
         }
         while (virusload <= 1000)
         {
             printf("menunggu virus E-bola v0.1 %d/1000\n", virusload);
+            virusload++;
         }
-        while (virusacc <== 1000)
+        while (virusacc <= 1000)
         {
             printf("mengakses virus E-bola v0.1 %d/1000\n", virusacc);
+            virusacc++;
         }
     }
     else if (viruschose == '9')
@@ -241,14 +265,17 @@ int main() {
         while (viruscreate <= 10000)
         {
             printf("membuat virus polo-Maniac %d/10000\n", viruscreate);
+            viruscreate++;
         }
         while (virusload <= 1000)
         {
             printf("menunggu virus polo-Maniac %d/1000\n", virusload);
+            virusload++;
         }
-        while (virusacc <== 1000)
+        while (virusacc <= 1000)
         {
             printf("mengakses virus polo-Maniac %d/1000\n", virusacc);
+            virusacc++;
         }
     }
     else if (viruschose == '10')
@@ -258,14 +285,17 @@ int main() {
         while (viruscreate <= 50000)
         {
             printf("membuat virus Qoedro C3 EXPERT %d/10000\n", viruscreate);
+            viruscreate++;
         }
         while (virusload <= 10000)
         {
             printf("menunggu virus Qoedro C3 EXPERT %d/1000\n", virusload);
+            virusload++;
         }
-        while (virusacc <== 10000)
+        while (virusacc <= 10000)
         {
             printf("mengakses virus Qoedro C3 EXPERT %d/1000\n", virusacc);
+            virusacc++;
         }
     }
     

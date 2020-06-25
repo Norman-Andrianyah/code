@@ -309,34 +309,34 @@ int main() {
         printf("memyambungkan %d/100\n", connecting2);
         connecting2++;
     }
-    while (viewprocess1 <= 5000)
+    while (viewprocess1 <= 1000)
     {
-        printf("membaca website %d/500\n", viewprocess1);
+        printf("membaca website %d/1000\n", viewprocess1);
         viewprocess1++;
     }
-    while (viewprocess2 <= 5000)
+    while (viewprocess2 <= 1000)
     {
-        printf("membaca script %d/500\n", viewprocess2);
+        printf("membaca script %d/1000\n", viewprocess2);
         viewprocess2++;
     }
-    while (viewprocess3 <= 5000)
+    while (viewprocess3 <= 1000)
     {
-        printf("membaca database %d/500\n", viewprocess3);
+        printf("membaca database %d/1000\n", viewprocess3);
         viewprocess3++;
     }
-    while (hackprocess1 <= 10000)
+    while (hackprocess1 <= 5000)
     {
-        printf("meretas web %d/1000\n", hackprocess1);
+        printf("meretas web %d/5000\n", hackprocess1);
         hackprocess1++;
     }
-    while (hackprocess2 <= 10000)
+    while (hackprocess2 <= 5000)
     {
-        printf("meretas script %d/1000\n", hackprocess2);
+        printf("meretas script %d/5000\n", hackprocess2);
         hackprocess2++;
     }
-    while (hackprocess3 <= 10000)
+    while (hackprocess3 <= 5000)
     {
-        printf("meretas database %d/1000\n", hackprocess3);
+        printf("meretas database %d/5000\n", hackprocess3);
         hackprocess3++;
     }
 

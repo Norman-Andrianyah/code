@@ -2,6 +2,7 @@
 ini adalah penyimpanan **code** buatanku sendiri.
 
 disini ada beberapa macam bahasa pemograman, dan disini juga bertjuan untuk membuat proyek bersama-sama bila saya butuh sedikit bantuan
+
 ---------------------
 ## isi dari kode
 - game dev

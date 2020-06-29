@@ -1,0 +1,148 @@
+body {
+    background-color: rgb(56, 56, 56);
+}
+a {
+    text-decoration: none;
+    font-weight: bolder;
+    color: blue;
+}
+a:hover {
+    text-decoration: underline;
+}
+.navbar {
+    background-color: black;
+    margin: -8px;
+    padding: 4px;
+}
+.navbar > img {
+    float: left;
+    margin-top: 6px;
+    margin-left: 8px;
+    width: 40px;
+}
+.navbar > ul {
+    text-align: right;
+    margin-right: 8px;
+}
+.navbar > ul > li {
+    display: inline-block;
+    margin-right: 10px;
+}
+.navbar > ul > li > a {
+    text-decoration: none;
+    display: block;
+    color: white;
+    font-family: monospace;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.navbar > ul > li > a:active {
+    color: rgb(145, 145, 145);
+}
+.header-title-element {
+    text-align: center;
+}
+.background {
+    background-color: white;
+    padding: 2px;
+    margin-top: 9px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.container {
+    margin: 40px;
+}
+.img-float-left {
+    float: left;
+    text-align: center;
+    margin-left: 17px;
+    margin-right: 17px;
+    margin-bottom: 17px;
+}
+.paragraph-0 {
+    margin: 17px;
+    margin-top: 10px;
+    font-family: 'Lucida sans';
+    font-size: small;
+}
+.regular-btn {
+    text-align: center;
+}
+.regular-btn > a > button {
+    background-color: rgb(29, 29, 29);
+    color: white;
+    font-size: normal;
+    border: none;
+    padding: 12px;
+}
+.regular-btn > a > button:active {
+    background-color: black;
+    color: gray;
+}
+.pi {
+    text-align: center;
+}
+.pi > img {
+    width: 100px;
+    padding-bottom: 15px;
+}
+.end-footer {
+    text-align: center;
+    padding-top: 2cm;
+    padding-bottom: 10px;
+}
+.sosmed > a > img {
+    width: 40px;
+}
+.copyright {
+    color: white;
+    font-family: Courier;
+    font-size: x-small;
+}
+.background-img {
+    background-image: url(web-image/background.png);
+    background-repeat: no-repeat;
+    background-size: 1400px;
+    padding: 100px;
+    margin-top: 7px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+}
+.background-img-regular {
+    background-image: url(web-image/code.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px;
+    padding: 100px;
+    margin-top: 7px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+}
+.table {
+    padding-bottom: 30px;
+}
+.table > table {
+    background-color: rgb(212, 212, 212);
+    font-size: x-small;
+}
+.table > table {
+    border-collapse: collapse;
+}
+.input > td {
+    padding: 5px;
+    text-align: center;
+}
+.output > td {
+    padding: 5px;
+}
+.output > td > a > button {
+    background-color: lime;
+    font-size: x-small;
+    color: white;
+    border: none;
+    padding: 6px;
+}
+.output > td > a > button:active {
+    background-color: green;
+}
